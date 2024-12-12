@@ -10,7 +10,7 @@
 
 ```
 
-jview: A tool to print HTTP responses as JSON, supporting HTTP/1.1 & HTTP/3, customizable headers.
+jview: A CLI app to print HTTP responses as JSON.
 
 ## ✨ Features
 
